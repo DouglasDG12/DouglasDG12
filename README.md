@@ -3,7 +3,7 @@
 </h1>
 
 <P>
-  Eu sou o Douglas Gustavo "SEU FUTURO PROGRAMADOR PREFERIDO :wink:", Sou um programador FRONT END em aprendizado.
+  Eu sou o Douglas Gustavo "SEU PROGRAMADOR PREFERIDO :wink:", Sou um programador FRONT END em aprendizado.
 </P>
 
 <h2>
